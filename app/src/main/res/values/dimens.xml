@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="inputTitleSize">20sp</dimen>
+    <dimen name="displayFieldSize">24sp</dimen>
+</resources>

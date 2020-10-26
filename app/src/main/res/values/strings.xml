@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">William Recipe App</string>
+
+    <!-- Login -->
+    <string name="loginEmailTitle">Email</string>
+    <string name="loginEmailHint">example@email.com</string>
+    <string name="loginPassTitle">Password</string>
+    <string name="loginPassHint">password</string>
+    <string name="login">Login</string>
+    <string name="newUser"><u>New User?</u></string>
+
+    <!-- My Recipes -->
+    <string name="myRecipes">My Recipes</string>
+    <string name="noRecipe">No Recipe Available</string>
+
+    <!-- Create Recipe -->
+    <string name="createRecipe">Create Recipe</string>
+    <string name="recipeTypeTitle">Recipe Type</string>
+    <string name="recipeTitleTitle">Recipe Title</string>
+    <string name="recipeTitleHint">Sugar</string>
+    <string name="recipeIngredientTitle">Ingredients</string>
+    <string name="recipeIngredientHint">1 tablespoon of sugar</string>
+    <string name="recipeStepTitle">Steps</string>
+    <string name="recipeStepHint">1. Get sugar ready</string>
+    <string name="recipeCreate">Create</string>
+
+    <!-- View Recipe -->
+    <string name="viewRecipe">View Recipe</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- Edit Recipe -->
+    <string name="editRecipe">Edit Recipe</string>
+
+    <!-- Options Menu -->
+    <string name="refresh">Refresh</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="recipeType">
+        <item>All</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+    </string-array>
+
+</resources>
